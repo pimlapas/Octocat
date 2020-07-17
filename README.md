@@ -1,2 +1,3 @@
-### Hello (edit#1)
-### I'm going to show you how I use git (Edit line2)
+### Hello, this is Octocat.g
+### I'm going to show you how I use git
+### Let's start with git init (edit line3)
